@@ -1,5 +1,6 @@
 from urllib.parse import quote_plus
 import sqlalchemy
+import pymysql
 
 class MySQL:
 	"""
