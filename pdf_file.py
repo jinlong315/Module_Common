@@ -1,5 +1,6 @@
 import base64
-
+import math
+import pandas as pd
 
 class PDFData:
 	"""
